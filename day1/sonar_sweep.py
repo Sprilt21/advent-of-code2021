@@ -1,5 +1,4 @@
 #Day 1 - Sonar Sweep
-import fileinput
 
 def part1():
     numLarger = 0
