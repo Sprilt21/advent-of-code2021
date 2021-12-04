@@ -1,3 +1,5 @@
+#Day 3 - Binary Diagnostic
+
 def part1():
     f = open("input.txt")
 
